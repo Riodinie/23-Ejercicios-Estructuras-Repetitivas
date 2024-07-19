@@ -1,5 +1,5 @@
 /*10.	Elabora un programa que escribe la serie de Fibonacci.
-0,1,1,2,2,3,5,8,13,�*/
+0,1,1,2,2,3,5,8,13,...(n-1) + (n-2)*/
 
 
 #include<iostream>
@@ -11,7 +11,7 @@ int _numero, a, b, tmp;
 	
   cout<<"Serie de Fibonacci"<<endl;
   
-  cout<<"Por favor ingrese la cantidad de numeros de la serie que se imprimiran: ";
+  cout<<"Por favor, ingrese la cantidad de números de la serie que se imprimirán: ";
    cin>>_numero;
   cout<<""<<endl;
    b = 1;

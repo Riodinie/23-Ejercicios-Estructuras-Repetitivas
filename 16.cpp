@@ -1,20 +1,21 @@
-/*16.	Calcule la suma de los n primeros n�meros impares.*/
+/*16.	Calcule la suma de los n primeros números impares.*/
 
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
- int i,s=0,s2=0,n;
- 
- cout<<"Escriba el rango de numeros impares que desea sumar (1 hasta n): ";
- cin>>n;
- 
- for(i=1;i<=n;i=i+2){
- 	s=i+s;
- }	
-cout<<"\nLa suma de todos los numeros impares es de: "<<s<<endl;
+int main()
+{
+	int i, s = 0, s2 = 0, n;
 
-return  0;
+	cout << "Escriba el rango de números impares que desea sumar (1 hasta n): ";
+	cin >> n;
 
+	for (i = 1; i <= n; i = i + 2)
+	{
+		s = i + s;
+	}
+	cout << "\nLa suma de todos los números impares es de: " << s << endl;
+
+	return 0;
 }
