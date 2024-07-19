@@ -2,10 +2,6 @@
 
 Este repositorio contiene una colección de ejercicios propuestos por mi profesor de programación para practicar el funcionamiento de las estructuras repetitivas en el lenguaje de programación C++.
 
-## Descripción
-
-Estos ejercicios están diseñados para ayudar a entender y dominar el uso de estructuras repetitivas en C++.
-
 ## Estructura del Repositorio
 
 El repositorio está organizado de la siguiente manera:
