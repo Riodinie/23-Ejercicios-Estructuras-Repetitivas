@@ -2,9 +2,7 @@
 
 Este repositorio contiene una colección de ejercicios propuestos por mi profesor de programación para practicar el funcionamiento de las estructuras repetitivas en el lenguaje de programación C++.
 
-## Estructura del Repositorio
-
-El repositorio está organizado de la siguiente manera:
+## Ejercicios
 
 1. **Ejercicio 1**: Elabore un programa que lea un número y calcule la suma desde 1 hasta el número leído.
 2. **Ejercicio 2**: Calcular independientemente la suma de los números pares e impares desde el 1 al 200.
