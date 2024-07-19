@@ -26,12 +26,12 @@ Este repositorio contiene una colección de ejercicios propuestos por mi profeso
 16. **Ejercicio 16**: Calcular la suma de los n primeros números impares.
 17. **Ejercicio 17**: Dos números son amigos si cada uno de ellos es igual a la suma de los divisores del otro. Ejemplo: 224 y 284. Elabore un programa que imprima todas las parejas de números menores o iguales que un número ingresado.
 18. **Ejercicio 18**: Elaborar un programa que lea números enteros mientras sean diferentes de 9999 y el programa debe escribir:
-   - La sumatoria de los números leídos.
-   - El producto.
-   - La cantidad de números leídos.
-   - El mayor número leído.
-   - El menor número leído.
-   - El número más cercano a 1000.
+    - La sumatoria de los números leídos.
+    - El producto.
+    - La cantidad de números leídos.
+    - El mayor número leído.
+    - El menor número leído.
+    - El número más cercano a 1000.
 19. **Ejercicio 19**: Elaborar un programa que escriba todos los números de tres dígitos que sean iguales a la suma de los cubos de sus dígitos.
 20. **Ejercicio 20**: Elaborar un programa que calcule el máximo común divisor de dos números.
 21. **Ejercicio 21**: Elaborar un programa que calcule el mínimo común múltiplo de cuatro números.
